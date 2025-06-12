@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 📰 TL;DR News Digest
 
 An automated Python tool that scrapes top news stories (currently from Fox News), summarizes them using ChatGPT (GPT-3.5), and displays clean, Markdown-formatted digests right inside a Jupyter notebook.
@@ -208,7 +207,6 @@ Submit PRs with improvements
 
 Open issues to share ideas or needs
 
-Author: Brody Dennis
+Author: Dennis Brody
 (Building portfolio-ready LLM projects — one notebook at a time.)
 
->>>>>>> 34d65723f4967542d6fb07a434792a82a11c79fe
