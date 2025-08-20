@@ -34,7 +34,7 @@ tldr-news-digest/
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/tldr-news-digest.git
+git clone https://github.com/dennisbrody/tldr-news-digest.git
 cd tldr-news-digest
 ```
 
